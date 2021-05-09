@@ -5,13 +5,12 @@
 #include <netinet/in.h>
 #include <string.h>
 #include <arpa/inet.h>
-
-#include "c37118.h"
-#include "c37118configuration.h"
-#include "c37118pmustation.h"
-#include "c37118data.h"
-#include "c37118header.h"
-#include "c37118command.h"
+#include <open-c37118/c37118.h>
+#include <open-c37118/c37118configuration.h>
+#include <open-c37118/c37118pmustation.h>
+#include <open-c37118/c37118data.h>
+#include <open-c37118/c37118header.h>
+#include <open-c37118/c37118command.h>
 #include <unistd.h>
 #include <iostream>
 

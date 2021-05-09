@@ -1,8 +1,8 @@
 #ifndef c37118data_h
 #define c37118data_h
 
-#include "c37118.h"
-#include "c37118configuration.h"
+#include <open-c37118/c37118.h>
+#include <open-c37118/c37118configuration.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <complex>

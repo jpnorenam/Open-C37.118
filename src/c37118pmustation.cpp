@@ -1,4 +1,4 @@
-#include "c37118pmustation.h"
+#include <open-c37118/c37118pmustation.h>
 
 /**
 * PUBLIC Methods from CLASS PMU STATION Fields, Get/Set for each field

@@ -1,4 +1,4 @@
-#include "c37118.h"
+#include <open-c37118/c37118.h>
 /**
 *       IEEE C37.118-2011 to identify the follows fields in a buffer
 *       Command Frame

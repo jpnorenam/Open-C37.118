@@ -1,4 +1,4 @@
-#include "c37118data.h"
+#include <open-c37118/c37118data.h>
 
 /**
 * PUBLIC Methods from CLASS DATA FRAME, Get/Set for each field

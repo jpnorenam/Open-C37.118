@@ -1,8 +1,8 @@
 #ifndef c37118configuration_h
 #define c37118configuration_h
 
-#include "c37118.h"
-#include "c37118pmustation.h"
+#include <open-c37118/c37118.h>
+#include <open-c37118/c37118pmustation.h>
 
 /**
 * C37.118-2011 CONFIGURATION 2 FRAME CLASS

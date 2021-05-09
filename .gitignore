@@ -19,3 +19,12 @@
 *.exe
 *.out
 *.app
+
+/build*/
+*~
+*.swp
+.clang_complete
+.project
+.cproject
+.settings/
+.vscode/

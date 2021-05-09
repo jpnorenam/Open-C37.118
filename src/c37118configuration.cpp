@@ -1,4 +1,4 @@
-#include "c37118configuration.h"
+#include <open-c37118/c37118configuration.h>
 
 /**
 * PUBLIC Methods from CLASS CONFIGURATION FRAME 2, Get/Set for each field

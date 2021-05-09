@@ -1,7 +1,7 @@
 #ifndef c37118header_h
 #define c37118header_h
 
-#include "c37118.h"
+#include <open-c37118/c37118.h>
 
 /**
 * C37.118-2011 HEADER FRAME CLASS
